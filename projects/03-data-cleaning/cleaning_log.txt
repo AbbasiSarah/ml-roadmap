@@ -1,0 +1,8 @@
+Loaded 320 rows, 4 columns
+Removed 20 exact duplicate rows
+Standardised city names (147 abbreviations fixed)
+Set 8 impossible ages to missing
+Converted marks to numbers (15 missing)
+Filled 20 missing age with median 23 (flag column added)
+Filled 15 missing marks with median 70 (flag column added)
+Saved 300 clean rows

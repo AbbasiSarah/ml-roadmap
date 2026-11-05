@@ -1,0 +1,398 @@
+date,category,amount
+2026-01-02,Groceries,3660.0
+2026-01-04,Transport,230.0
+2026-01-04,Bills,1010.0
+2026-01-05,Bills,490.0
+2026-01-05,Shopping,1240.0
+2026-01-07,Groceries,2740.0
+2026-01-07,Education,1060.0
+2026-01-07,Shopping,1090.0
+2026-01-08,Shopping,220.0
+2026-01-09,Transport,1630.0
+2026-01-10,Groceries,3490.0
+2026-01-10,Eating out,1350.0
+2026-01-12,Groceries,1470.0
+2026-01-12,Education,300.0
+2026-01-12,Shopping,70.0
+2026-01-14,Education,390.0
+2026-01-15,Transport,350.0
+2026-01-15,Bills,1250.0
+2026-01-16,Bills,560.0
+2026-01-18,Education,2320.0
+2026-01-20,Eating out,1450.0
+2026-01-20,Shopping,350.0
+2026-01-22,Bills,740.0
+2026-01-22,Shopping,440.0
+2026-01-23,Eating out,390.0
+2026-01-24,Bills,310.0
+2026-01-24,Education,1480.0
+2026-01-25,Shopping,1230.0
+2026-01-26,Transport,130.0
+2026-01-26,Bills,1160.0
+2026-01-27,Groceries,1230.0
+2026-01-27,Shopping,960.0
+2026-01-29,Groceries,1950.0
+2026-01-30,Bills,1090.0
+2026-02-01,Groceries,1560.0
+2026-02-01,Bills,1310.0
+2026-02-01,Eating out,520.0
+2026-02-03,Bills,3050.0
+2026-02-04,Groceries,1430.0
+2026-02-05,Groceries,4070.0
+2026-02-07,Education,2830.0
+2026-02-09,Groceries,1630.0
+2026-02-09,Transport,360.0
+2026-02-09,Eating out,390.0
+2026-02-10,Education,390.0
+2026-02-11,Eating out,1350.0
+2026-02-12,Bills,670.0
+2026-02-12,Eating out,970.0
+2026-02-14,Education,1040.0
+2026-02-16,Transport,1180.0
+2026-02-16,Bills,590.0
+2026-02-18,Groceries,1350.0
+2026-02-18,Shopping,780.0
+2026-02-21,Shopping,3020.0
+2026-02-23,Groceries,3120.0
+2026-02-23,Bills,800.0
+2026-02-23,Education,780.0
+2026-02-28,Eating out,530.0
+2026-03-04,Bills,470.0
+2026-03-06,Eating out,210.0
+2026-03-06,Shopping,310.0
+2026-03-09,Groceries,790.0
+2026-03-09,Eating out,600.0
+2026-03-11,Bills,120.0
+2026-03-11,Eating out,440.0
+2026-03-12,Groceries,950.0
+2026-03-12,Bills,1300.0
+2026-03-13,Eating out,290.0
+2026-03-13,Shopping,780.0
+2026-03-14,Education,1920.0
+2026-03-16,Education,310.0
+2026-03-17,Eating out,480.0
+2026-03-19,Groceries,1890.0
+2026-03-19,Transport,450.0
+2026-03-20,Transport,1280.0
+2026-03-20,Eating out,810.0
+2026-03-20,Education,1260.0
+2026-03-23,Groceries,2610.0
+2026-03-24,Eating out,1010.0
+2026-03-24,Education,450.0
+2026-03-25,Shopping,1260.0
+2026-03-26,Groceries,3390.0
+2026-03-26,Bills,1380.0
+2026-03-26,Education,1090.0
+2026-03-27,Eating out,450.0
+2026-03-27,Education,760.0
+2026-03-29,Education,4520.0
+2026-03-29,Shopping,1110.0
+2026-03-31,Groceries,4490.0
+2026-03-31,Transport,640.0
+2026-04-01,Groceries,1150.0
+2026-04-01,Education,2130.0
+2026-04-02,Groceries,680.0
+2026-04-02,Bills,130.0
+2026-04-03,Groceries,1420.0
+2026-04-03,Transport,140.0
+2026-04-04,Groceries,3880.0
+2026-04-05,Education,1470.0
+2026-04-06,Groceries,2840.0
+2026-04-06,Transport,2060.0
+2026-04-06,Bills,760.0
+2026-04-06,Eating out,280.0
+2026-04-06,Education,1550.0
+2026-04-06,Shopping,1130.0
+2026-04-07,Education,230.0
+2026-04-10,Eating out,790.0
+2026-04-12,Education,800.0
+2026-04-13,Transport,1120.0
+2026-04-14,Groceries,720.0
+2026-04-15,Education,860.0
+2026-04-16,Bills,530.0
+2026-04-16,Eating out,170.0
+2026-04-16,Education,1180.0
+2026-04-17,Bills,770.0
+2026-04-17,Eating out,1130.0
+2026-04-17,Shopping,670.0
+2026-04-18,Groceries,1900.0
+2026-04-18,Eating out,860.0
+2026-04-19,Groceries,1370.0
+2026-04-19,Shopping,600.0
+2026-04-20,Groceries,2770.0
+2026-04-20,Eating out,570.0
+2026-04-21,Education,2740.0
+2026-04-23,Transport,490.0
+2026-04-23,Eating out,560.0
+2026-04-24,Transport,940.0
+2026-04-25,Bills,340.0
+2026-04-26,Groceries,2490.0
+2026-04-26,Transport,730.0
+2026-04-27,Transport,880.0
+2026-04-29,Groceries,2620.0
+2026-04-29,Eating out,470.0
+2026-04-29,Education,1580.0
+2026-04-30,Bills,520.0
+2026-05-01,Education,930.0
+2026-05-02,Groceries,1230.0
+2026-05-02,Transport,340.0
+2026-05-05,Groceries,1250.0
+2026-05-05,Transport,400.0
+2026-05-05,Bills,1430.0
+2026-05-05,Eating out,190.0
+2026-05-05,Shopping,260.0
+2026-05-06,Transport,580.0
+2026-05-07,Groceries,2280.0
+2026-05-08,Bills,940.0
+2026-05-10,Bills,420.0
+2026-05-10,Eating out,40.0
+2026-05-12,Transport,600.0
+2026-05-12,Shopping,60.0
+2026-05-13,Transport,890.0
+2026-05-13,Shopping,160.0
+2026-05-14,Groceries,2610.0
+2026-05-14,Eating out,320.0
+2026-05-15,Eating out,1020.0
+2026-05-16,Education,2440.0
+2026-05-17,Groceries,840.0
+2026-05-19,Bills,760.0
+2026-05-20,Groceries,2340.0
+2026-05-20,Education,1080.0
+2026-05-20,Shopping,160.0
+2026-05-21,Education,490.0
+2026-05-22,Groceries,1550.0
+2026-05-23,Groceries,520.0
+2026-05-24,Transport,700.0
+2026-05-24,Eating out,320.0
+2026-05-25,Eating out,1250.0
+2026-05-27,Bills,2170.0
+2026-05-27,Eating out,430.0
+2026-05-28,Groceries,2320.0
+2026-05-28,Transport,730.0
+2026-05-28,Education,2390.0
+2026-05-28,Shopping,1060.0
+2026-05-29,Transport,570.0
+2026-05-30,Groceries,2410.0
+2026-05-30,Transport,950.0
+2026-06-01,Eating out,1120.0
+2026-06-03,Bills,2010.0
+2026-06-05,Groceries,1920.0
+2026-06-05,Education,1360.0
+2026-06-07,Groceries,2290.0
+2026-06-07,Eating out,530.0
+2026-06-10,Groceries,60.0
+2026-06-10,Bills,1450.0
+2026-06-10,Education,3150.0
+2026-06-11,Groceries,2780.0
+2026-06-11,Transport,1750.0
+2026-06-12,Groceries,2780.0
+2026-06-12,Education,540.0
+2026-06-14,Shopping,2000.0
+2026-06-16,Eating out,760.0
+2026-06-19,Bills,50.0
+2026-06-20,Education,870.0
+2026-06-20,Shopping,720.0
+2026-06-23,Groceries,4310.0
+2026-06-23,Education,2600.0
+2026-06-24,Education,1760.0
+2026-06-24,Shopping,1030.0
+2026-06-25,Transport,520.0
+2026-06-25,Bills,500.0
+2026-06-26,Education,2620.0
+2026-06-26,Shopping,380.0
+2026-06-28,Education,1060.0
+2026-06-29,Bills,2830.0
+2026-06-30,Transport,500.0
+2026-07-01,Education,870.0
+2026-07-02,Transport,310.0
+2026-07-02,Eating out,360.0
+2026-07-03,Shopping,3270.0
+2026-07-05,Groceries,690.0
+2026-07-06,Eating out,470.0
+2026-07-08,Education,700.0
+2026-07-10,Transport,280.0
+2026-07-10,Bills,410.0
+2026-07-10,Education,2800.0
+2026-07-12,Groceries,5190.0
+2026-07-12,Bills,780.0
+2026-07-15,Transport,350.0
+2026-07-15,Eating out,430.0
+2026-07-16,Transport,810.0
+2026-07-16,Bills,360.0
+2026-07-16,Education,650.0
+2026-07-18,Groceries,690.0
+2026-07-19,Education,450.0
+2026-07-19,Shopping,1230.0
+2026-07-20,Bills,1350.0
+2026-07-21,Groceries,960.0
+2026-07-21,Eating out,1800.0
+2026-07-22,Bills,1110.0
+2026-07-22,Shopping,470.0
+2026-07-23,Groceries,2020.0
+2026-07-23,Bills,1300.0
+2026-07-24,Groceries,580.0
+2026-07-25,Bills,760.0
+2026-07-25,Shopping,380.0
+2026-07-28,Groceries,760.0
+2026-07-29,Groceries,1390.0
+2026-07-30,Transport,970.0
+2026-07-30,Eating out,800.0
+2026-07-30,Education,60.0
+2026-08-02,Groceries,4530.0
+2026-08-03,Transport,1480.0
+2026-08-03,Eating out,290.0
+2026-08-03,Education,1430.0
+2026-08-03,Shopping,1660.0
+2026-08-04,Shopping,830.0
+2026-08-06,Shopping,1350.0
+2026-08-08,Transport,250.0
+2026-08-08,Eating out,110.0
+2026-08-11,Shopping,1440.0
+2026-08-12,Groceries,880.0
+2026-08-12,Transport,310.0
+2026-08-12,Shopping,840.0
+2026-08-14,Transport,1550.0
+2026-08-14,Bills,920.0
+2026-08-16,Eating out,1520.0
+2026-08-17,Eating out,390.0
+2026-08-19,Bills,1460.0
+2026-08-20,Transport,520.0
+2026-08-23,Transport,470.0
+2026-08-23,Shopping,640.0
+2026-08-24,Groceries,1400.0
+2026-08-25,Groceries,610.0
+2026-08-25,Transport,720.0
+2026-08-28,Transport,290.0
+2026-08-28,Education,820.0
+2026-08-29,Education,510.0
+2026-08-31,Transport,1420.0
+2026-08-31,Education,760.0
+2026-09-01,Shopping,2130.0
+2026-09-02,Groceries,1400.0
+2026-09-02,Eating out,540.0
+2026-09-03,Education,460.0
+2026-09-04,Shopping,1110.0
+2026-09-05,Groceries,540.0
+2026-09-06,Groceries,1870.0
+2026-09-06,Transport,650.0
+2026-09-07,Transport,970.0
+2026-09-07,Bills,2060.0
+2026-09-08,Education,630.0
+2026-09-10,Groceries,640.0
+2026-09-10,Eating out,1300.0
+2026-09-10,Education,750.0
+2026-09-11,Education,400.0
+2026-09-13,Education,3490.0
+2026-09-14,Eating out,270.0
+2026-09-15,Transport,740.0
+2026-09-18,Shopping,330.0
+2026-09-19,Groceries,320.0
+2026-09-19,Bills,2560.0
+2026-09-20,Transport,490.0
+2026-09-21,Eating out,1100.0
+2026-09-22,Shopping,1000.0
+2026-09-23,Shopping,1570.0
+2026-09-24,Groceries,630.0
+2026-09-24,Transport,420.0
+2026-09-24,Education,820.0
+2026-09-24,Shopping,240.0
+2026-09-25,Bills,940.0
+2026-09-26,Shopping,700.0
+2026-09-27,Groceries,3790.0
+2026-09-30,Groceries,1990.0
+2026-09-30,Eating out,560.0
+2026-09-30,Shopping,1760.0
+2026-10-01,Eating out,250.0
+2026-10-02,Groceries,750.0
+2026-10-02,Eating out,270.0
+2026-10-03,Transport,1680.0
+2026-10-05,Transport,1670.0
+2026-10-05,Education,410.0
+2026-10-07,Education,380.0
+2026-10-07,Shopping,1350.0
+2026-10-08,Transport,650.0
+2026-10-08,Bills,1980.0
+2026-10-09,Bills,760.0
+2026-10-09,Eating out,170.0
+2026-10-11,Groceries,1730.0
+2026-10-11,Bills,160.0
+2026-10-12,Groceries,1350.0
+2026-10-12,Bills,2600.0
+2026-10-12,Shopping,580.0
+2026-10-16,Groceries,1240.0
+2026-10-16,Bills,280.0
+2026-10-21,Groceries,1090.0
+2026-10-21,Eating out,350.0
+2026-10-22,Transport,1410.0
+2026-10-22,Eating out,90.0
+2026-10-24,Shopping,760.0
+2026-10-25,Groceries,770.0
+2026-10-25,Eating out,660.0
+2026-10-27,Groceries,1440.0
+2026-10-28,Shopping,760.0
+2026-10-30,Education,2930.0
+2026-11-02,Eating out,70.0
+2026-11-03,Transport,720.0
+2026-11-04,Education,1460.0
+2026-11-05,Groceries,2770.0
+2026-11-06,Transport,340.0
+2026-11-08,Groceries,130.0
+2026-11-08,Education,4150.0
+2026-11-10,Shopping,440.0
+2026-11-11,Education,370.0
+2026-11-13,Groceries,1370.0
+2026-11-13,Education,790.0
+2026-11-15,Eating out,930.0
+2026-11-16,Eating out,890.0
+2026-11-17,Groceries,2870.0
+2026-11-17,Shopping,580.0
+2026-11-18,Groceries,1080.0
+2026-11-19,Transport,580.0
+2026-11-19,Eating out,170.0
+2026-11-19,Shopping,400.0
+2026-11-20,Groceries,2700.0
+2026-11-20,Transport,660.0
+2026-11-22,Groceries,1800.0
+2026-11-22,Transport,1170.0
+2026-11-22,Education,4690.0
+2026-11-23,Shopping,1710.0
+2026-11-27,Transport,1080.0
+2026-11-27,Bills,1740.0
+2026-11-29,Bills,480.0
+2026-11-29,Eating out,700.0
+2026-11-29,Shopping,510.0
+2026-11-30,Eating out,170.0
+2026-12-04,Eating out,550.0
+2026-12-05,Transport,530.0
+2026-12-05,Education,760.0
+2026-12-06,Shopping,400.0
+2026-12-07,Transport,630.0
+2026-12-08,Groceries,970.0
+2026-12-10,Groceries,840.0
+2026-12-11,Groceries,1250.0
+2026-12-13,Groceries,470.0
+2026-12-13,Eating out,1080.0
+2026-12-13,Education,1830.0
+2026-12-14,Education,1790.0
+2026-12-16,Groceries,1690.0
+2026-12-16,Bills,5650.0
+2026-12-16,Shopping,130.0
+2026-12-17,Education,340.0
+2026-12-18,Bills,1410.0
+2026-12-19,Bills,840.0
+2026-12-20,Groceries,1150.0
+2026-12-20,Transport,360.0
+2026-12-22,Bills,490.0
+2026-12-22,Education,3100.0
+2026-12-23,Education,950.0
+2026-12-24,Bills,210.0
+2026-12-24,Eating out,820.0
+2026-12-24,Shopping,1720.0
+2026-12-25,Shopping,1180.0
+2026-12-26,Transport,270.0
+2026-12-26,Bills,330.0
+2026-12-26,Education,960.0
+2026-12-27,Education,970.0
+2026-12-28,Transport,1140.0
+2026-12-28,Shopping,890.0
+2026-12-31,Bills,620.0

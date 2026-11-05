@@ -1,0 +1,321 @@
+student_id,city,age,marks
+1,Isb,25,68%
+2,Lahore,23,79
+3,Karachi,25,71%
+4,Karachi,999,75
+5,Karachi,29,63
+6,Isb,18,72
+7,Isb,27,62
+8, karachi ,22,64%
+9,Lahore,27,
+10,Lahore,25,49
+11,Islamabad,17,62
+12,lhr,28,55
+13, karachi ,29,56
+14,lhr,,76%
+15,Islamabad,17,absent
+16,Karachi,18,100%
+17,KHI,25,79
+18,KHI,23,60
+19,Lahore,18,77%
+20,Lahore,28,72%
+21,lhr,20,n/a
+22,lhr,17,81
+23,Karachi.,28,59%
+24, karachi ,24,31
+25,lhr,17,78
+26,lhr,19,61
+27,KHI,28,86%
+28, karachi ,26,60%
+29,Karachi,28,54
+30,KHI,29,87
+31,Isb,20,55%
+32,Karachi.,23,70
+33,Isb,21,85
+34,Islamabad,17,69%
+35,Islamabad,,67
+36,KHI,,69
+37,KHI,18,absent
+38,KHI,22,58
+39,Isb,28,75
+40,Islamabad,28,75%
+41,Karachi.,25,96
+42,Lahore,20,64
+43,Lahore,18,57
+44,Karachi.,25,77
+45,Karachi.,26,63
+46,Islamabad,22,71%
+47,Karachi,250,70
+48,Islamabad,20,82
+49,Lahore,29,60
+50,Karachi.,26,67
+51,KHI,,37
+52, karachi ,21,57
+53,Karachi,28,86
+54,lhr,21,60%
+55,Karachi,22,60
+56,Isb,26,53
+57,lhr,22,75
+58,Lahore,23,70
+59,Islamabad,17,54
+60,KHI,27,76
+61, karachi ,20,71%
+62,Islamabad,23,77
+63,Islamabad,24,60
+64,Lahore,19,89%
+65, karachi ,20,73%
+66,KHI,22,67%
+67, karachi ,18,62
+68,Karachi.,28,65
+69,Karachi.,21,78
+70,Karachi,250,65
+71, karachi ,18,81
+72,KHI,29,75
+73,Karachi,23,84
+74,Islamabad,17,78
+75,lhr,21,67%
+76,KHI,21,45%
+77,Islamabad,20,72
+78,KHI,26,77
+79,KHI,29,70
+80,Karachi,25,75
+81,lhr,19,62
+82,Isb,24,63
+83,Isb,23,57
+84,KHI,25,absent
+85,Lahore,27,70
+86,KHI,28,62
+87,Karachi,27,52%
+88,Isb,25,66
+89,Karachi.,22,85%
+90,lhr,24,74
+91,Karachi.,19,59
+92,Isb,24,85
+93,Islamabad,23,85
+94,Karachi.,25,80
+95,lhr,23,77
+96,Lahore,21,82
+97, karachi ,23,75
+98,Isb,25,77
+99,KHI,19,59
+100,lhr,24,86%
+101,Karachi.,21,absent
+102,lhr,27,92
+103,lhr,24,43
+104,Karachi,23,76
+105,Karachi,17,80%
+106,KHI,17,64
+107,Isb,20,73
+108,Islamabad,23,77
+109,KHI,23,
+110,Isb,28,62
+111,Karachi,18,66
+112,Islamabad,25,80
+113, karachi ,22,83
+114, karachi ,25,69
+115,lhr,18,69%
+116,lhr,22,70
+117,Karachi,18,80
+118, karachi ,21,55
+119,Karachi.,19,52
+120,Karachi,26,69
+121,Isb,25,55
+122,Karachi,18,61
+123,Lahore,,69%
+124,KHI,28,74%
+125,Karachi,,55
+126,Isb,28,78
+127,Islamabad,18,
+128, karachi ,29,75
+129,Karachi.,22,49
+130,Karachi.,18,53%
+131,lhr,26,76
+132,Karachi,18,63
+133,Islamabad,17,58
+134,Isb,,63
+135, karachi ,18,74%
+136,Karachi,22,67
+137,Karachi.,28,68
+138,Karachi.,20,81
+139,Karachi.,20,59
+140, karachi ,21,62%
+141,Karachi.,26,62
+142, karachi ,25,82%
+143, karachi ,20,80%
+144,Karachi.,19,83
+145, karachi ,22,68
+146,Isb,23,66
+147,Islamabad,22,78%
+148,Isb,25,63
+149,Karachi.,18,78
+150,Lahore,26,77
+151, karachi ,24,60
+152,Islamabad,17,67
+153,Lahore,25,67
+154,Lahore,,89
+155,Islamabad,21,99
+156,Karachi,22,67
+157,KHI,24,68
+158,Karachi,22,41
+159,KHI,23,71
+160,Isb,24,68
+161,lhr,24,55%
+162,Karachi,20,77
+163,Lahore,18,49%
+164,Islamabad,28,65
+165,lhr,22,70
+166,lhr,19,53%
+167,Islamabad,29,78
+168,Isb,24,81
+169, karachi ,21,51
+170,Karachi.,19,51
+171,Karachi.,17,75%
+172,KHI,25,68%
+173,Lahore,25,53
+174,Karachi,28,n/a
+175,KHI,29,67
+176, karachi ,28,n/a
+177,Karachi.,17,78
+178,KHI,18,73
+179,Isb,24,89
+180,Lahore,25,84
+181,Islamabad,19,76
+182,KHI,28,81
+183,KHI,29,84
+184,Islamabad,19,76
+185,Karachi,25,53
+186, karachi ,22,78
+187,Lahore,24,69%
+188,KHI,26,87
+189,Isb,23,
+190,KHI,26,74
+191,Lahore,20,72
+192, karachi ,,88
+193,Islamabad,18,70
+194, karachi ,25,65
+195,KHI,22,72%
+196,Karachi,25,63
+197,Lahore,29,70
+198,lhr,21,68
+199, karachi ,27,71
+200,Karachi,25,91
+201,Karachi.,26,63
+202,lhr,250,n/a
+203,Karachi.,20,66
+204, karachi ,26,76%
+205,KHI,0,54%
+206,Isb,23,60%
+207,lhr,24,68
+208,lhr,0,75%
+209,KHI,23,67
+210,Lahore,22,62%
+211, karachi ,20,58
+212, karachi ,28,74
+213,Karachi,29,85
+214,Karachi,19,72
+215,Lahore,21,70
+216,KHI,18,73
+217,KHI,19,57
+218,lhr,17,absent
+219,Karachi.,21,65
+220,lhr,28,72%
+221,Islamabad,19,68
+222,Karachi.,29,53
+223,Lahore,27,82
+224,lhr,20,88%
+225,Lahore,17,65
+226,Islamabad,20,73
+227,KHI,22,71
+228,Islamabad,19,77
+229,lhr,25,50
+230,lhr,24,absent
+231,Lahore,26,62
+232,Lahore,23,83
+233,Islamabad,24,69
+234, karachi ,27,63
+235,Lahore,24,66
+236,Karachi.,19,79
+237,Isb,28,58%
+238, karachi ,28,63
+239,KHI,24,62
+240,KHI,23,47
+241,Lahore,25,84
+242,Karachi.,27,75
+243,Lahore,27,68
+244,Isb,27,82%
+245,Isb,20,57
+246,KHI,28,67
+247,Karachi,17,89
+248,Isb,23,80%
+249,Karachi.,22,41
+250,Isb,24,28
+251,KHI,25,56
+252,Islamabad,24,81
+253, karachi ,17,62%
+254,lhr,19,n/a
+255,Isb,23,75%
+256,Islamabad,23,57
+257,lhr,19,71%
+258,Islamabad,29,78
+259,lhr,18,74
+260, karachi ,28,73
+261,lhr,25,61
+262,Islamabad,17,74
+263, karachi ,0,63%
+264, karachi ,25,84
+265,Karachi,19,99
+266, karachi ,21,59
+267,KHI,28,42
+268,Lahore,18,63%
+269, karachi ,29,73
+270,lhr,18,81%
+271,Karachi.,22,81
+272,lhr,27,59
+273,Islamabad,17,58
+274,KHI,29,83
+275,Isb,24,55
+276,Lahore,23,81
+277,Lahore,,65
+278,Karachi,,77
+279,Islamabad,27,76
+280, karachi ,23,77
+281, karachi ,,78%
+282,lhr,27,56
+283,Karachi.,999,72
+284,KHI,26,68
+285,Karachi,26,72
+286,Islamabad,17,83
+287,Karachi,18,65
+288,Karachi,19,59%
+289,Isb,21,59%
+290,Karachi.,28,64
+291,lhr,18,77%
+292,Karachi,23,58
+293,Isb,29,82
+294,Karachi,25,71
+295,Karachi,26,65
+296,Islamabad,27,52
+297,Islamabad,22,71
+298,Islamabad,25,76%
+299,Islamabad,18,47
+300,Karachi,26,82
+190,KHI,26,74
+124,KHI,28,74%
+186, karachi ,22,78
+214,Karachi,19,72
+107,Isb,20,73
+128, karachi ,29,75
+177,Karachi.,17,78
+74,Islamabad,17,78
+276,Lahore,23,81
+243,Lahore,27,68
+267,KHI,28,42
+148,Isb,25,63
+300,Karachi,26,82
+59,Islamabad,17,54
+123,Lahore,,69%
+79,KHI,29,70
+12,lhr,28,55
+168,Isb,24,81
+221,Islamabad,19,68
+30,KHI,29,87
