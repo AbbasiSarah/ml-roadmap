@@ -36,6 +36,13 @@ pip install -r requirements.txt
 cd projects/04-model-comparison && python compare_models.py
 ```
 
+## Colab exercises
+Beginner exercises you can run in your browser with no installation: step-by-step code, exercises and solutions. See [colab/](colab/).
+
+| Exercise | Open |
+|---|---|
+| Predict a student's exam score (Linear Regression) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbbasiSarah/ml-roadmap/blob/main/colab/01-predict-exam-score-linear-regression.ipynb) |
+
 ## All resources
 Every course, book and video used in the roadmap is listed in [RESOURCES.md](RESOURCES.md). Almost all are free.
 
