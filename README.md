@@ -42,6 +42,11 @@ Beginner exercises you can run in your browser with no installation: step-by-ste
 | Exercise | Open |
 |---|---|
 | Predict a student's exam score (Linear Regression) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbbasiSarah/ml-roadmap/blob/main/colab/01-predict-exam-score-linear-regression.ipynb) |
+| Name a flower (KNN) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbbasiSarah/ml-roadmap/blob/main/colab/02-iris-flowers-knn.ipynb) |
+| Will this student pass? (Decision Tree) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbbasiSarah/ml-roadmap/blob/main/colab/03-pass-or-fail-decision-tree.ipynb) |
+| Find customer groups (K-Means) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbbasiSarah/ml-roadmap/blob/main/colab/04-customer-groups-kmeans.ipynb) |
+| Build a spam filter (Naive Bayes) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbbasiSarah/ml-roadmap/blob/main/colab/05-spam-filter-naive-bayes.ipynb) |
+| Read handwriting (CNN) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbbasiSarah/ml-roadmap/blob/main/colab/06-handwritten-digits-cnn.ipynb) |
 
 ## All resources
 Every course, book and video used in the roadmap is listed in [RESOURCES.md](RESOURCES.md). Almost all are free.
