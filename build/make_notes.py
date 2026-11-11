@@ -5,7 +5,7 @@ from notes_a import NOTES as A
 from notes_b import NOTES as B
 NOTES = {**A, **B}
 ROOT = Path(__file__).resolve().parents[1]
-road = yaml.safe_load(open("/home/claude/site2/_data/roadmap.yml"))
+road = yaml.safe_load(open(sys.argv[1] if len(sys.argv) > 1 else "../abbasisarah.github.io/_data/roadmap.yml"))
 SITE = "https://abbasisarah.github.io/roadmap/"
 STAGE_PROJECT = {"python": "01-expense-analyser", "math": "02-gradient-descent", "data": "03-data-cleaning",
                  "classic-ml": "04-model-comparison", "deep-learning": "05-neural-net-from-scratch",
